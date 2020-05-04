@@ -9,6 +9,7 @@ Explanation: The binary representation of 5 is 101 (no leading zero bits), and i
 Input: 1
 Output: 0
 Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
+
 Learning:-Uses of STL Libraries.
 representation of no. in bits format.
 
